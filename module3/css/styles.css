@@ -1,0 +1,42 @@
+body {
+  background: #EFEBE9;
+}
+
+#header-nav {
+	background: #FF5722;
+	border-radius: 0;
+  border: 0;
+}
+
+#brand-title {
+	margin: 0;
+	font-size: 1.3em;
+	font-weight: bold;
+	color: #FBE9E7;
+}
+
+#collapsable-menu {
+	border: 0;
+}
+
+#nav-list {
+	margin: 0 -15px;
+}
+
+#nav-list li:hover {
+	background: #FF7043;
+}
+
+#nav-list a {
+  color: #FBE9E7;
+  font-size: 1.3em;
+  text-align: center;
+}
+
+#body-text-tile {
+	background: #D7CCC8;
+}
+
+#body-text {
+  height: 1000px;
+}
